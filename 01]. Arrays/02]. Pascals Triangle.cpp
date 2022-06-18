@@ -1,6 +1,3 @@
-// Take care of cases 1 and 2
-// arr[i][j] = arr[i - 1][j - 1] + arr[i - 1][j]
-
 vector<vector<long long int>> printPascal(int n) {
     vector<vector<long long int>> ans(n);
     if(n == 1) return {{1}};
