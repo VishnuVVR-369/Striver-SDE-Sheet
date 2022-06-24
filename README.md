@@ -20,3 +20,46 @@
   <br>
   
 </details>
+
+## Day-2: (Arrays Part-II)
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--I-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Rotate Matrix](https://takeuforward.org/data-structure/rotate-image-by-90-degree/)                                                 |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/02%5D.%20Arrays%20Part-II/01%5D.%20Rotate%20Matrix.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[Merge Overlapping Intervals](https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/)                            |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/02%5D.%20Arrays%20Part-II/02%5D.%20Merge%20Overlapping%20Subintervals.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Merge Two Sorted Arrays](https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/)|<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/02%5D.%20Arrays%20Part-II/03%5D.%20Merge%20Sorted%20Arrays.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Find Duplicate in the Array](https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/)            |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/02%5D.%20Arrays%20Part-II/04%5D.%20Find%20Duplicate%20in%20Array.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Repeat and Missing Number](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/)                      |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/02%5D.%20Arrays%20Part-II/05%5D.%20Repeat%20and%20Missing%20Number.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[Count Inversions](https://takeuforward.org/data-structure/count-inversions-in-an-array/)                                            |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/02%5D.%20Arrays%20Part-II/06%5D.%20Inversion%20of%20Array.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
+
+## Day-3: (Arrays Part-III)
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--I-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Search In 2D Matrix](https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/)                                                 |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/03%5D.%20Arrays%20Part-III/01%5D.%20Search%20in%202D%20Matrix.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[Modular Exponentiation](https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/)                            |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/03%5D.%20Arrays%20Part-III/02%5D.%20Modular%20Exponentiation.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Majority Element](https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/)|<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/03%5D.%20Arrays%20Part-III/03%5D.%20Majority%20Element.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Majority Element - II](https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/)            |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/03%5D.%20Arrays%20Part-III/04%5D.%20Majority%20Element%20II.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Unique Paths](https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/)                      |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/03%5D.%20Arrays%20Part-III/05%5D.%20Unique%20Paths.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[Reverse Pairs](https://takeuforward.org/data-structure/data-structure/count-reverse-pairs/)                                            |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/03%5D.%20Arrays%20Part-III/06%5D.%20Reverse%20Pairs.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
+
