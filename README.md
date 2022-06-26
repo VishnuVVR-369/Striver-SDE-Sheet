@@ -24,7 +24,7 @@
 ## Day-2: (Arrays Part-II)
 
 <details>
-  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--I-6-brightgreen"></summary>
+  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--II-6-brightgreen"></summary>
   
   | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
   |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,7 +45,7 @@
 ## Day-3: (Arrays Part-III)
 
 <details>
-  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--I-6-brightgreen"></summary>
+  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--III-6-brightgreen"></summary>
   
   | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
   |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -62,4 +62,26 @@
   <br>
   
 </details>
+
+## Day-4: (Arrays Part-IV)
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--IV-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Pair Sum](https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/)                                                 |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/04%5D.%20Arrays%20Part-IV/01%5D.%20Pair%20Sum.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[4 Sum](https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/)                            |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/04%5D.%20Arrays%20Part-IV/02%5D.%204%20Sum.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Longest Consecutive Sequence](https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/)|<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/04%5D.%20Arrays%20Part-IV/03%5D.%20Longest%20Consecutive%20Sequence.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Longest Subarray Zero Sum](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/)            |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/04%5D.%20Arrays%20Part-IV/04%5D.%20Longest%20Subarray%20Zero%20Sum.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Count Subarrays with Given XOR](https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/)                      |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/04%5D.%20Arrays%20Part-IV/05%5D.%20Count%20Subarrays%20with%20given%20XOR.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[Longest Substring without Repeating Characters](https://takeuforward.org/data-structure/data-structure/length-of-longest-substring-without-any-repeating-character/)                                            |<a   href="https://github.com/VishnuVVR-369/Striver-SDE-Sheet/blob/master/04%5D.%20Arrays%20Part-IV/06%5D.%20Longest%20Substring%20without%20Repeating%20Characters.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
+
 
